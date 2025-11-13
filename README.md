@@ -13,7 +13,7 @@ The Mental Health Chatbot is an AI-powered virtual assistant designed to provide
 ## Technologies Used
 - **Python** (Backend)
 - **PyTorch** (Machine Learning)
-- **SpeechRecognition & gTTS** (Speech-to-Text & Text-to-Speech)
+- **SpeechRecognition & pyttsx3** (Speech-to-Text & Text-to-Speech)
 - **Tkinter** (GUI Development)
 - **Flask** (API for Integration)
 
